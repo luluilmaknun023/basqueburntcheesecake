@@ -1,14 +1,14 @@
 {
   "Ads": [
     {
-      "select_main_ads": "APPLOVIN-M",
+      "select_main_ads": "APPLOVIN-M-NB",
       "select_backup_ads":"APPLOVIN-D",
       "main_ads_banner": "c5d2dd5b57653bd1",
       "main_ads_intertitial":"adac7b8abc42b9c3",
       "native_for_admob":"ca-app-pub-4665178800981292/4032861819x",
-      "backup_ads_banner":"c5d2dd5b57653bd1",
-      "backup_ads_intertitial":"adac7b8abc42b9c3",
-      "interval_intertitial": 15,
+      "backup_ads_banner":"201abd40ef4bb657",
+      "backup_ads_intertitial":"42c0356af051d42a",
+      "interval_intertitial": 5,
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "basuku cheesecake",
