@@ -8,7 +8,7 @@
       "native_for_admob":"ca-app-pub-4665178800981292/4032861819x",
       "backup_ads_banner":"201abd40ef4bb657",
       "backup_ads_intertitial":"42c0356af051d42a",
-      "interval_intertitial": 5,
+      "interval_intertitial": 3,
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "basuku cheesecake",
